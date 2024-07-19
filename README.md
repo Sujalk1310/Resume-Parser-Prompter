@@ -1,6 +1,8 @@
 # Resume-Parser-Prompter
 This is a Gemini-Pro Resume Parser Prompter.
 
+**Note:** Due to OpenAI API limit error, I have switched over to Gemini Pro for the same.
+
 To run it install the following dependencies by:
 ```
 pip install PyPDF2 google-generativeai
